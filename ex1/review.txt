@@ -1,0 +1,35 @@
+1. Telescope
+diameter
+mainLength
+eyeLength
+magnification()
+fNumber()
+
+2.Telescope(3.0,6.5,.8)
+magnification()
+fNumber()
+
+3.
+Instance Variables
+Constructors
+Methods
+
+4. all of them are double
+
+5.Telescope(diamter, mainLength, eyeLength)
+diameter
+mainLength
+eyeLength
+
+6.
+mainLength/ eyeLength
+
+7.
+mainLength/diameter
+
+8.Telescope
+
+9.Telescope.java
+TelescopeTester.java
+
+10.TelescopeTester
